@@ -1,0 +1,15 @@
+{
+    "name": "dev.finance app",
+    "short_name": "dev.finance",
+    "theme_color": "#ececec",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "../static/assets/logo512.png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ]
+}
