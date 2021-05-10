@@ -30,11 +30,19 @@
 ## **Temas**
 ### Padrão (Tema Claro):
 ![](https://iili.io/ffCWiX.png)
-#
+
+---
+
 ### Omni (Tema Escuro):
 ![](https://iili.io/ffCUW7.png)
+
+---
+
 ### Launchbase (Tema Alternativo):
 ![](https://iili.io/ffC4fe.png)
+
+---
+
 ## **Mobile**
 ![](https://iili.io/ffCQOQ.png)
 
