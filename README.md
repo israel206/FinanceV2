@@ -27,32 +27,6 @@
 
 ---
 
-## **Temas**
-
-### Padrão (Tema Claro)
-
-![](https://iili.io/ffCWiX.png)
-
----
-
-### Omni (Tema Escuro)
-
-![](https://iili.io/ffCUW7.png)
-
----
-
-### Launchbase (Tema Alternativo)
-
-![](https://iili.io/ffC4fe.png)
-
----
-
-## **Mobile**
-
-![](https://iili.io/ffCQOQ.png)
-
----
-
 ## **Novas Features**
 
 - #### Theme Switcher
@@ -69,6 +43,40 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Nunjucks](https://mozilla.github.io/nunjucks/templating.html)
+
+---
+
+## 👨‍💻 Computer: How to run
+
+**Clone the project and access the folder**
+
+  ```bash
+    # clone repository
+    $ git clone https://github.com/israel206/FinanceV2.git
+  ```
+
+---
+
+## 🚀 Getting started
+
+### Requirements
+
+- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+
+**Follow the steps below**
+
+```bash
+# Install the dependencies
+$ yarn
+
+# Run the backend fake server
+$ yarn server
+
+# Run the web server
+$ yarn dev
+```
+
+The app will be available for access on your browser at `http://localhost:3333`
 
 ---
 
