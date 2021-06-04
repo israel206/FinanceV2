@@ -70,9 +70,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 $ yarn
 
 # Run the backend fake server
+$ npm start
+# or
 $ yarn server
 
 # Run the web server
+$ npm run dev
+# or
 $ yarn dev
 ```
 
