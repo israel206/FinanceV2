@@ -106,4 +106,4 @@ app.post("/edit", (req, res) => {
     })
 })
 
-app.listen(process.env.PORT || 3333, () => console.log("http://127.0.0.1:3333 ou htttp://localhost:3333"))
+app.listen(process.env.PORT || 3333, () => console.log("http://127.0.0.1:3333 ou http://localhost:3333"));
